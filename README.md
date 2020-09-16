@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Php(Basic) | Ruby(Basic) | C++(Basic) | Python(Basic) |
+- 💻 &nbsp; Php(Basic) | Ruby(Basic) | C++(Basic) | Python(Basic) | Elixir(Learning)
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Django(Learning) |
 - 🛢 &nbsp; MySQL | POSTGRESql | MongoDB(Learning)
 - 🔧 &nbsp; Git 
